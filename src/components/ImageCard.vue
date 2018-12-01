@@ -20,7 +20,7 @@ export default {
 
 <style scoped lang="scss">
 .image-card {  // Class selector always gets a .name_of_class
-  border: 1px solid blue;
+
 }
 
 img {

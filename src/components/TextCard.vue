@@ -23,16 +23,16 @@ export default {
 
 <style scoped lang="scss">
 .text-card {  // Class selector always gets a .name_of_class
-  border: 1px solid red;
-
 
 }
+
 h2 {
   letter-spacing: 0px;
   font-size: 28px;
   text-align: left;
   width: 500px;
 }
+
 p {
   letter-spacing: 0px;
   font-size: 15px;
