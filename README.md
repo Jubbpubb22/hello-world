@@ -27,3 +27,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+# Using Git
+
+    git status
+    git diff.    space to scroll, q to exit
+    git add .    or git add <file_name>
+    git status
+    git commit
+    git push
+    
