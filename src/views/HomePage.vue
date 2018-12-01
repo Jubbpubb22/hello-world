@@ -1,3 +1,4 @@
+<!-- This is your component for the "Home" page -->
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">

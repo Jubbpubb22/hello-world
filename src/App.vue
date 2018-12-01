@@ -1,12 +1,18 @@
+<!-- Html all belong inside a <template< tag-->
+
 <template>
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/about">About</router-link> |
+      <router-link to="/features">Features</router-link>
     </div>
     <router-view/>
   </div>
 </template>
+
+
+<!-- CSS goes into <style> tags -->
 
 <style lang="scss">
 #app {

@@ -1,15 +1,16 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div class="cta-button"> <!-- This is a class. It is always lowercase with hyphens -->
+    <a :href='link'>{{label}}</a>
   </div>
 </template>
 
 
 <script> // This is the javascript for this HelloWorld compomnent
 export default {
-  name: "HelloWorld",
+  name: "CtaButton", // This is the name of the compomnent in Javascript. it always matches the file name. 
   props: {
-    msg: String
+    label: String,
+    link: String
   }
 };
 </script>

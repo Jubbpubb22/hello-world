@@ -1,6 +1,6 @@
 import Vue from "vue";
 import Router from "vue-router";
-import Home from "./views/Home.vue";
+import HomePage from "./views/HomePage.vue";  // these are your pages
 
 Vue.use(Router);
 
@@ -11,16 +11,19 @@ export default new Router({
     {
       path: "/",
       name: "home",
-      component: Home
+      component: HomePage // By not code splitting the HomePage you garuntee that it loads each time you open the app, In short: gets rendered everytime. 
     },
     {
       path: "/about",
       name: "about",
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
       component: () =>
-        import(/* webpackChunkName: "about" */ "./views/About.vue")
+        import(/* webpackChunkName: "about" */ "./views/AboutPage.vue")
+    },
+    {
+      path: "/features",
+      name: "features",
+      component: () =>
+        import(/* webpackChunkName: "features" */ "./views/FeaturesPage.vue")
     }
   ]
 });
