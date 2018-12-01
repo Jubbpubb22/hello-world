@@ -24,6 +24,12 @@ export default new Router({
       name: "features",
       component: () =>
         import(/* webpackChunkName: "features" */ "./views/FeaturesPage.vue")
+    },
+    {
+      path: "/dev-docs",
+      name: "dev-docs",
+      component: () =>
+        import(/* webpackChunkName: "dev-docs" */ "./views/DevDocsPage.vue")
     }
   ]
 });

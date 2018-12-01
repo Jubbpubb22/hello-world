@@ -18,18 +18,22 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
 a {
   color: #42b983;
+  border: 2px solid #42b983;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color .3s, color .3s;
+}
+
+a:hover {
+  background-color: #42b983;
+  color: #ffffff;
+
 }
 </style>

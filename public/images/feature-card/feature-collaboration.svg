@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="380px" height="307px" viewBox="0 0 380 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>feature-collaboration</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0F1E24" offset="0%"></stop>
+            <stop stop-color="#A3A9AC" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0.0606633255 0.570378395 249.790643 0.570378395 249.790643 70.6306978 0.0606633255 70.6306978"></polygon>
+        <filter x="-12.8%" y="-40.0%" width="125.6%" height="191.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0683876812 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-4" cx="25.2677888" cy="25.2677888" r="25.2677888"></circle>
+        <circle id="path-6" cx="25.2677888" cy="25.2677888" r="25.2677888"></circle>
+        <linearGradient x1="50%" y1="0%" x2="229.738974%" y2="124.736727%" id="linearGradient-8">
+            <stop stop-color="#C8C8C8" stop-opacity="0.128877944" offset="0%"></stop>
+            <stop stop-color="#5D686D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="feature-collaboration" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11,0 L368.27346,0 C374.348592,-1.11598369e-15 379.27346,4.92486775 379.27346,11 L379.27346,295.65243 C379.27346,301.727562 374.348592,306.65243 368.27346,306.65243 L11,306.65243 C4.92486775,306.65243 7.43989126e-16,301.727562 0,295.65243 L0,11 C-7.43989126e-16,4.92486775 4.92486775,1.11598369e-15 11,0 Z" id="gradient-background" fill="url(#linearGradient-1)" opacity="0.0370535714"></path>
+        <g id="collaboration-minimal-ver" transform="translate(64.888469, 49.218681)">
+            <g id="person">
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <path d="M91.6966019,21.5682211 L110.754585,21.5682211" id="Path-18" stroke="#E8EAEA" stroke-width="5" stroke-linecap="round"></path>
+                <path d="M91.6966019,37.569863 L183.489322,37.569863" id="Path-18" stroke="#EFF0F0" stroke-width="2.4" stroke-linecap="round"></path>
+                <path d="M91.6966019,46.2980314 L183.489322,46.2980314" id="Path-18" stroke="#EFF0F0" stroke-width="2.4" stroke-linecap="round"></path>
+                <g transform="translate(14.379077, 9.627618)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Oval" fill="#E0E3E3" opacity="0.762723214" transform="translate(25.267789, 25.267789) scale(-1, 1) translate(-25.267789, -25.267789) " xlink:href="#path-4"></use>
+                    <g id="Group-67" mask="url(#mask-5)" fill="#2D3B41">
+                        <g transform="translate(25.297501, 34.602538) scale(-1, 1) translate(-25.297501, -34.602538) translate(6.797501, 17.102538)">
+                            <circle id="Oval-7" cx="17.5985402" cy="6.34193305" r="5.49967343"></circle>
+                            <path d="M0.991697397,34.471632 L6.6445857,21.8383201 C8.57969921,17.5136472 12.8753232,14.7297119 17.6131982,14.7297119 L17.6131982,14.7297119 C22.4181254,14.7297119 26.8435575,17.3405687 29.1672825,21.5462348 L36.3088546,34.471632" id="Path-31"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M45.3097514,51.1391099 L68.1012288,55.3781108" id="Path-35" stroke="#2D3B41" stroke-width="2.21298739" stroke-linecap="round"></path>
+                <path d="M43.6252322,44.4010329 L59.6786325,48.6400338" id="Path-35" stroke="#2D3B41" stroke-width="2.21298739" stroke-linecap="round"></path>
+            </g>
+            <g id="person" transform="translate(137.195999, 151.288251)">
+                <g transform="translate(7.302758, 0.366742)">
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <use id="Oval" fill="#E0E3E3" opacity="0.762723214" xlink:href="#path-6"></use>
+                    <g id="Group-67" mask="url(#mask-7)" fill="#2D3B41">
+                        <g transform="translate(25.297501, 34.602538) scale(-1, 1) translate(-25.297501, -34.602538) translate(6.797501, 17.102538)">
+                            <circle id="Oval-7" cx="17.5985402" cy="6.34193305" r="5.49967343"></circle>
+                            <path d="M0.991697397,34.471632 L6.6445857,21.8383201 C8.57969921,17.5136472 12.8753232,14.7297119 17.6131982,14.7297119 L17.6131982,14.7297119 C22.4181254,14.7297119 26.8435575,17.3405687 29.1672825,21.5462348 L36.3088546,34.471632" id="Path-31"></path>
+                        </g>
+                    </g>
+                </g>
+                <path d="M0.0445006647,38.6645623 L22.835978,42.9035631" id="Path-35" stroke="#2D3B41" stroke-width="2.21298739" stroke-linecap="round" transform="translate(11.440239, 40.784063) scale(-1, 1) rotate(-27.000000) translate(-11.440239, -40.784063) "></path>
+                <path d="M15.8452712,34.0353954 L38.6367485,38.2743962" id="Path-35" stroke="#2D3B41" stroke-width="2.21298739" stroke-linecap="round" transform="translate(27.241010, 36.154896) scale(-1, 1) rotate(-27.000000) translate(-27.241010, -36.154896) "></path>
+            </g>
+            <g id="Group-4" transform="translate(114.829038, 165.012251) rotate(46.000000) translate(-114.829038, -165.012251) translate(88.829038, 136.512251)" stroke-linecap="round" stroke-width="2.2">
+                <path d="M29.8799185,0.137307385 L29.8799185,8.13812837" id="Path-11" stroke="#F9D86E"></path>
+                <path d="M29.8799185,48.1422333 L29.8799185,56.1430543" id="Path-11" stroke="#E1E5E5"></path>
+                <path d="M13.4082293,7.62291416 L10.2079009,15.6237352" id="Path-11" stroke="#E1E5E5" transform="translate(11.808065, 11.623325) scale(-1, 1) rotate(45.000000) translate(-11.808065, -11.623325) "></path>
+                <path d="M47.352838,41.5675228 L44.1525096,49.5683438" id="Path-11" stroke="#E7645C" transform="translate(45.752674, 45.567933) scale(-1, 1) rotate(45.000000) translate(-45.752674, -45.567933) "></path>
+                <path d="M48.9981744,7.62291416 L45.797846,15.6237352" id="Path-11" stroke="#E7645C" transform="translate(47.398010, 11.623325) rotate(45.000000) translate(-47.398010, -11.623325) "></path>
+                <path d="M15.0535657,41.5675228 L11.8532373,49.5683438" id="Path-11" stroke="#F9D86E" transform="translate(13.453402, 45.567933) rotate(45.000000) translate(-13.453402, -45.567933) "></path>
+                <path d="" id="Path-11" stroke="#E7645C" transform="translate(0.523042, 22.244906) rotate(-90.000000) translate(-0.523042, -22.244906) "></path>
+                <path d="" id="Path-11" stroke="#F9D86E" transform="translate(35.708039, 22.244906) rotate(-90.000000) translate(-35.708039, -22.244906) "></path>
+            </g>
+            <g id="add-button" transform="translate(101.828631, 150.833557)">
+                <circle id="Oval-3" fill="#01AD9F" cx="16.0080037" cy="15.9821097" r="15.7718209"></circle>
+                <path d="M8.48202065,14.3493516 L24.1678205,18.2487017" id="Path-4" stroke="#FFFFFF" stroke-width="2.74428" stroke-linecap="round" transform="translate(16.324921, 16.299027) rotate(90.000000) translate(-16.324921, -16.299027) "></path>
+                <path d="M8.48202065,16.2990266 L24.1678205,16.2990266" id="Path-4" stroke="#FFFFFF" stroke-width="2.74428" stroke-linecap="round"></path>
+            </g>
+            <path d="M73.1731016,63.1083812 C85.3691086,71.4984503 88.8816499,94.0588872 79.3913143,108.354939 C69.9009788,122.65099 75.7540406,144.749519 96.2311579,159.217549" id="Path-2" stroke="url(#linearGradient-8)" stroke-width="2" opacity="0.727734375" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
